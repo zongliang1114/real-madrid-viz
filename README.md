@@ -11,7 +11,9 @@ I then passed my prototype along to Sandy and she is currently trying to help me
 ## resources
 Personal offensive and defensive data:
 https://www.whoscored.com/Teams/52/Archive/Spain-Real-Madrid
+
 team data:
 http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000787/match=2019641/postmatch/statistics/index.html#
+
 personal ability data:
 http://pesdb.net/pes2017/?all=1&club_team=%22MD%20WHITE%22&sort=pos&order=a
