@@ -6,7 +6,7 @@ As we all know, soccer is a classic team work match. Different players have diff
 
 I don’t have much coding experience but I was not willing to compromise on my vision. Instead of feeling limited by my coding abilities, I decided to prototype my idea in Invision to show the interactions that I plan my visualization to have.
 
-I then passed my prototype along to @sandywij and she is currently trying to help me code this. Her feedback was that my prototype was very clear and she was able to work independently on the code. This gave me the experience of how it might be like prototyping and collaborating with a developer. 
+I then passed my prototype along to [@sandywij](https://github.com/sandywij/) and she is currently trying to help me code this. Her feedback was that my prototype was very clear and she was able to work independently on the code. This gave me the experience of how it might be like prototyping and collaborating with a developer. 
 
 ## resources
 Personal offensive and defensive data:
