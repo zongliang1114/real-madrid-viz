@@ -28,7 +28,7 @@ This is what I learned how to export the svg file from Ai.
 
 ![stakeholder map](https://i.imgur.com/EPwfwIu.png)
 
-
-
 ![stakeholder map](https://i.imgur.com/Ii8Zj2m.png)
+
+![stakeholder map](https://i.imgur.com/E1mlo8f.png)
 Sandy used d3.js to script and rander the jersey logo, number, name of players. I knew this because she has comment of each block of code. 
