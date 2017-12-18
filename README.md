@@ -20,10 +20,14 @@ http://pesdb.net/pes2017/?all=1&club_team=%22MD%20WHITE%22&sort=pos&order=a
 
 ## analyze
 ![stakeholder map](https://i.imgur.com/ABHMg9E.png)
-
+She used google font API to get the roboto Font. You can see the bootstrap, css and javasrcipt file however, Sandy did not use them. And the d3 tip library, it creates the tooltips.
 ![stakeholder map](https://i.imgur.com/aOTPmDt.png)
+She used css to make the style part. Using google chrome, I inspected her code and I see that the styles were applied on the field svg. Fill and the stroke are different color by typing #97ccad, #8ac273, we have two different shade of screen. The stroke-width is 5px. Sandy told me that she exported the svg code from my Ai file.
+![stakeholder map](https://i.imgur.com/QxXKSDb.png)
+This is what I learned how to export the svg file from Ai.
 
 ![stakeholder map](https://i.imgur.com/EPwfwIu.png)
+
 
 ![stakeholder map](https://i.imgur.com/DF63ay0.png)
 
