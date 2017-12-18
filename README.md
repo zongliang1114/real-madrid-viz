@@ -17,3 +17,16 @@ http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000787/match=
 
 personal ability data:
 http://pesdb.net/pes2017/?all=1&club_team=%22MD%20WHITE%22&sort=pos&order=a
+
+## analyze
+![stakeholder map](https://i.imgur.com/ABHMg9E.png)
+
+![stakeholder map](https://i.imgur.com/aOTPmDt.png)
+
+![stakeholder map](https://i.imgur.com/EPwfwIu.png)
+
+![stakeholder map](https://i.imgur.com/DF63ay0.png)
+
+![stakeholder map](https://i.imgur.com/E1mlo8f.png)
+
+![stakeholder map](https://i.imgur.com/Ii8Zj2m.png)
