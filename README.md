@@ -27,6 +27,7 @@ She used css to make the style part. Using google chrome, I inspected her code a
 This is what I learned how to export the svg file from Ai.
 
 ![stakeholder map](https://i.imgur.com/EPwfwIu.png)
+Sandy used d3.js to script and rander the jersey logo, number, name of players. I knew this because she has comment of each block of code. 
 
 
 ![stakeholder map](https://i.imgur.com/DF63ay0.png)
