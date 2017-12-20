@@ -39,7 +39,7 @@ This is what I learned how to export the svg file from Ai.
 Sandy used d3.js to script and rander the jersey logo, number, name of players. I knew this because she has comment of each block of code. 
 
 
-## prototpye
+## prototype
 My invision prototype:
 https://invis.io/ESEVBAKP8#/268322207_Data-05
 
